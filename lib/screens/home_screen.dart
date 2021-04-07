@@ -31,7 +31,6 @@ class _HomeScreenState extends State<HomeScreen> {
           Container(
             width: width,
             margin: EdgeInsets.all(16.0),
-            //child: 
           )
         ],
       ),
